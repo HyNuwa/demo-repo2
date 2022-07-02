@@ -1,2 +1,2 @@
 # DEMO 2
-some text
+some texts
